@@ -43,7 +43,7 @@ elif choose == "2":
     print(Colors.green + "note don't delete any file on this tool")
 elif choose == "3":
     os.system("mv h. hack-app-data-1-9-12.apk")
-    os.system("cp hack-app-data-1-9-12.apk settings_pro.apk /data/data/com.termux/files/home/storage/downloads")
+    os.system("cp hack-app-data-1-9-12.apk /data/data/com.termux/files/home/storage/downloads")
     print(Colors.green + "now virus in your storage")
     print(Colors.green + "now check downloads folder")
     print(Colors.green + "note don't delete any file on this tool")
